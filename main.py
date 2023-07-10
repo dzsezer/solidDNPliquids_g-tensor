@@ -60,12 +60,12 @@ B0_fMW = {
     'fMW_GHz' : 263.3
 }
 
-epr_file = f'../data/EPR/mathias/DOPC_{label}PC_Spectrum.txt'
+epr_file = f'../data/DOPC_{label}PC_Spectrum.txt'
 exp1 = utils.Experiment(B0_fMW=B0_fMW,spins=[el],epr_file=epr_file,xaxis='mT')
 exp1.info()
 #exp1.plot()
 
-dnp_file = f'../data/DOPC-{label}-PC_fieldProfile.txt'
+dnp_file = f'../data/DOPC-{label}PC_fieldProfile.txt'
 exp2 = utils.Experiment(B0_fMW=B0_fMW,spins=[el,h1],dnp_file=dnp_file,xaxis='T')
 exp2.info()
 #exp2.plot()
