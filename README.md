@@ -9,4 +9,6 @@ utils_classes.py: Defines the classes and the methods on the objects
 utils_plots.py: Uses the above functions to generate plots
 main.py: Calls the plotting functions to make the figures
 
-The generated pdf plots are in the directory 'pdfs'.
+The analyzed EPR and DNP spectra of 10- and 16-Doxyl-PC in DOPC lipid bilayers are in the directory 'data'.
+
+The generated plots are in the directory 'pdfs'.
