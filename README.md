@@ -5,8 +5,11 @@ This is a supplementary repository for the manuscript "The solid effect of dynam
 The included files are as follows:
 
 utils_funs.py: Contains helper functions
+
 utils_classes.py: Defines the classes and the methods on the objects
+
 utils_plots.py: Uses the above functions to generate plots
+
 main.py: Calls the plotting functions to make the figures
 
 The analyzed EPR and DNP spectra of 10- and 16-Doxyl-PC in DOPC lipid bilayers are in the directory 'data'.
