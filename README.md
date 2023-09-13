@@ -1,6 +1,6 @@
 # solidDNPliquid_g-tensor
 
-This is a supplementary repository for the manuscripts "The solid effect of dynamic nuclear polarization in liquids II: Accounting for g-tensor anisotropy at high magntic fields" (https://doi.org/10.5194/mr-2023-10). The provided files generate the figures in the manuscripts. If needed, please contact Deniz Sezer for explanations.
+This is a supplementary repository for the manuscript "The solid effect of dynamic nuclear polarization in liquids II: Accounting for g-tensor anisotropy at high magntic fields" (https://doi.org/10.5194/mr-2023-10). The provided files generate the figures in the manuscripts. If needed, please contact Deniz Sezer for explanations.
 
 The included files are as follows:
 
